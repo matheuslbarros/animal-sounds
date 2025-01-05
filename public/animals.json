@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Guinea Pig",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/guinea-pig.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/guinea-pig.mp3"
+  },
+  {
+    "name": "Crow",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/crow.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/crow.mp3"
+  },
+  {
+    "name": "Buffalo",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/buffalo.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/buffalo.mp3"
+  },
+  {
+    "name": "Raccoon",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/raccoon.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/raccoon.mp3"
+  },
+  {
+    "name": "Rat",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/rat.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/rat.mp3"
+  },
+  {
+    "name": "Scorpion",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/scorpion.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/scorpion.mp3"
+  },
+  {
+    "name": "Ape",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/ape.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/ape.mp3"
+  },
+  {
+    "name": "Ferret",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/ferret.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/ferret.mp3"
+  },
+  {
+    "name": "Butterfly",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/butterfly.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/butterfly.mp3"
+  },
+  {
+    "name": "Rhinoceros",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/rhinoceros.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/rhinoceros.mp3"
+  },
+  {
+    "name": "Penguin",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/penguin.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/penguin.mp3"
+  },
+  {
+    "name": "Pig",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/pig.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/pig.mp3"
+  },
+  {
+    "name": "Swan",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/swan.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/swan.mp3"
+  },
+  {
+    "name": "Humpback Whale",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/humpback-whale.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/humpback-whale.mp3"
+  },
+  {
+    "name": "Alpaca",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/alpaca.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/alpaca.mp3"
+  },
+  {
+    "name": "Turkey",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/turkey.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/turkey.mp3"
+  },
+  {
+    "name": "Camel",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/camel.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/camel.mp3"
+  },
+  {
+    "name": "Chicken",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/chicken.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/chicken.mp3"
+  },
+  {
+    "name": "Lizard",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/lizard.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/lizard.mp3"
+  },
+  {
+    "name": "Bat",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/bat.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/bat.mp3"
+  },
+  {
+    "name": "Elephant",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/elephant.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/elephant.mp3"
+  },
+  {
+    "name": "Hedgehog",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/hedgehog.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/hedgehog.mp3"
+  },
+  {
+    "name": "Rabbit",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/rabbit.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/rabbit.mp3"
+  },
+  {
+    "name": "Giraffe",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/giraffe.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/giraffe.mp3"
+  },
+  {
+    "name": "Shark",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/shark.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/shark.mp3"
+  },
+  {
+    "name": "Moose",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/moose.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/moose.mp3"
+  },
+  {
+    "name": "Lion",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/lion.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/lion.mp3"
+  },
+  {
+    "name": "African Grey Parrot",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/african-grey-parrot.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/african-grey-parrot.mp3"
+  },
+  {
+    "name": "Leopard",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/leopard.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/leopard.mp3"
+  },
+  {
+    "name": "Tiger",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/tiger.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/tiger.mp3"
+  },
+  {
+    "name": "Falcon",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/falcon.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/falcon.mp3"
+  },
+  {
+    "name": "Otter",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/otter.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/otter.mp3"
+  },
+  {
+    "name": "Bowhead Whale",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/bowhead-whale.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/bowhead-whale.mp3"
+  },
+  {
+    "name": "Robin",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/robin.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/robin.mp3"
+  },
+  {
+    "name": "Panda",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/panda.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/panda.mp3"
+  },
+  {
+    "name": "Cow",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/cow.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/cow.mp3"
+  },
+  {
+    "name": "Rattlesnake",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/rattlesnake.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/rattlesnake.mp3"
+  },
+  {
+    "name": "Hippopotamus",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/hippopotamus.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/hippopotamus.mp3"
+  },
+  {
+    "name": "Wolf",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/wolf.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/wolf.mp3"
+  },
+  {
+    "name": "Rooster",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/rooster.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/rooster.mp3"
+  },
+  {
+    "name": "Antelope",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/antelope.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/antelope.mp3"
+  },
+  {
+    "name": "Alligator",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/alligator.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/alligator.mp3"
+  },
+  {
+    "name": "Hyena",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/hyena.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/hyena.mp3"
+  },
+  {
+    "name": "Yak",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/yak.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/yak.mp3"
+  },
+  {
+    "name": "Frog",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/frog.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/frog.mp3"
+  },
+  {
+    "name": "Dog",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/dog.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/dog.mp3"
+  },
+  {
+    "name": "Cat",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/cat.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/cat.mp3"
+  },
+  {
+    "name": "Komodo Dragon",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/komodo-dragon.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/komodo-dragon.mp3"
+  },
+  {
+    "name": "Zebra",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/zebra.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/zebra.mp3"
+  },
+  {
+    "name": "Owl",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/owl.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/owl.mp3"
+  },
+  {
+    "name": "Anteater",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/anteater.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/anteater.mp3"
+  },
+  {
+    "name": "Dinosaur",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/dinosaur.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/dinosaur.mp3"
+  },
+  {
+    "name": "Horse",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/horse.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/horse.mp3"
+  },
+  {
+    "name": "Bee",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/bee.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/bee.mp3"
+  },
+  {
+    "name": "Dove",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/dove.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/dove.mp3"
+  },
+  {
+    "name": "Sheep",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/sheep.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/sheep.mp3"
+  },
+  {
+    "name": "Duck",
+    "image": "https://www.google.com/logos/fnbx/animal_sounds/duck.png",
+    "audio": "https://www.google.com/logos/fnbx/animal_sounds/duck.mp3"
+  }
+]
